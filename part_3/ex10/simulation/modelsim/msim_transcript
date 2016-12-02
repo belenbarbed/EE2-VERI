@@ -1,0 +1,99 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# ERROR: No extended dataflow license exists
+# do ex10_top_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_3/ex10 {H:/Year 2/VERI/part_3/ex10/spi2dac.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module spi2dac
+# 
+# Top level modules:
+# 	spi2dac
+# 
+vsim work.spi2dac
+# vsim work.spi2dac 
+# Loading work.spi2dac
+vsim work.spi2dac
+# vsim work.spi2dac 
+# Loading work.spi2dac
+vsim> restart
+# invalid command name "vsim>"
+spi2dac> restart
+# invalid command name "spi2dac>"
+Test_input_signals_spi2dac> restart
+# invalid command name "Test_input_signals_spi2dac>"
+
+restart
+do ./Test
+# Cannot open macro file: ./Test
+do ./Test_input_signals_spi2dac.do
+# ** Error: invalid command name "9"
+# Error in macro ././Test_input_signals_spi2dac.do line 11
+# invalid command name "9"
+#     while executing
+# "9"
+#     invoked from within
+# "force data_in[9] 1"
+restart
+do ./Test_input_signals_spi2dac.do
+# ** Error: invalid command name "9"
+# Error in macro ././Test_input_signals_spi2dac.do line 11
+# invalid command name "9"
+#     while executing
+# "9"
+#     invoked from within
+# "force data_in[9] 1"
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+# WARNING: No extended dataflow license exists
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+# ** Error: Invalid binary digit: #.
+# ** Error: (vsim-4011) Invalid force value: #1000111011.
+# Error in macro ././Test_input_signals_spi2dac.do line 10
+# Invalid binary digit: #.
+# ** Error: (vsim-4011) Invalid force value: #1000111011.
+# 
+#     while executing
+# "force data_in #1000111011"
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./Test_input_signals_spi2dac.do
+restart
+do ./tb_spi2dac.do

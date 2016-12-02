@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\Year 2\VERI\part_3\ex10\simulation\modelsim
+vspi2dac
+!i10b 1
+!s100 d1g4Z?4I:Y53L0SSd9;cM1
+IkH5>mnZRk<_]Pz27<bmXU0
+VFNOGDa=aYhJTn=76LYB@A2
+Z1 dH:\Year 2\VERI\part_3\ex10\simulation\modelsim
+w1478805578
+8H:/Year 2/VERI/part_3/ex10/spi2dac.v
+FH:/Year 2/VERI/part_3/ex10/spi2dac.v
+L0 9
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1480671246.437000
+!s107 H:/Year 2/VERI/part_3/ex10/spi2dac.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_3/ex10|H:/Year 2/VERI/part_3/ex10/spi2dac.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work {+incdir+H:/Year 2/VERI/part_3/ex10} -O0
