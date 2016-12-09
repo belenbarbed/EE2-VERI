@@ -1,0 +1,85 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do ex19_top_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/counter_13.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module counter_13
+# 
+# Top level modules:
+# 	counter_13
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/spi2dac.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module spi2dac
+# 
+# Top level modules:
+# 	spi2dac
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/spi2adc.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module spi2adc
+# 
+# Top level modules:
+# 	spi2adc
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/pwm.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pwm
+# 
+# Top level modules:
+# 	pwm
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/pulse_gen.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pulse_gen
+# 
+# Top level modules:
+# 	pulse_gen
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/hex_to_7seg.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module hex_to_7seg
+# 
+# Top level modules:
+# 	hex_to_7seg
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/ex19_top.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ex19_top
+# 
+# Top level modules:
+# 	ex19_top
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/echo.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/delay_ram.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module delay_ram
+# 
+# Top level modules:
+# 	delay_ram
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/clktick_16.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module clktick_16
+# 
+# Top level modules:
+# 	clktick_16
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/bin2bcd_16.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module bin2bcd_16
+# 
+# Top level modules:
+# 	bin2bcd_16
+# vlog -vlog01compat -work work +incdir+H:/Year\ 2/VERI/part_4/ex19 {H:/Year 2/VERI/part_4/ex19/add3_ge5.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module add3_ge5
+# 
+# Top level modules:
+# 	add3_ge5
+# 

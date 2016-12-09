@@ -1,0 +1,245 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\Year 2\VERI\part_4\ex19\simulation\modelsim
+vadd3_ge5
+!i10b 1
+!s100 @DSZ==T@PAchf;@THdY9o2
+IA@gh`kVm6Fa?`9zm[>jIN0
+VUCcPj8G>ZN>@]2Y>F>QXR2
+Z1 dH:\Year 2\VERI\part_4\ex19\simulation\modelsim
+w1390382292
+8H:/Year 2/VERI/part_4/ex19/add3_ge5.v
+FH:/Year 2/VERI/part_4/ex19/add3_ge5.v
+L0 9
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1481287773.703000
+!s107 H:/Year 2/VERI/part_4/ex19/add3_ge5.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/add3_ge5.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+H:/Year 2/VERI/part_4/ex19} -O0
+vbin2bcd_16
+IZTb=Tokb8OJ`mTii[_Dm`2
+V5fANkzmZm[FS0JgCiFJil0
+R1
+w1480033822
+8H:/Year 2/VERI/part_4/ex19/bin2bcd_16.v
+FH:/Year 2/VERI/part_4/ex19/bin2bcd_16.v
+L0 12
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 Hed8OhVAKjE?T^P4Xce9e0
+!s85 0
+!s108 1481287773.458000
+!s107 H:/Year 2/VERI/part_4/ex19/bin2bcd_16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/bin2bcd_16.v|
+!s101 -O0
+vclktick_16
+I:MFYBn:7o2n=91?^T8h5g0
+VeXlNhnQ:]TNWWH`T6dmC50
+R1
+w1478247282
+8H:/Year 2/VERI/part_4/ex19/clktick_16.v
+FH:/Year 2/VERI/part_4/ex19/clktick_16.v
+L0 6
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 kJ2ejTlQ6aYS47mKT?:F50
+!s85 0
+!s108 1481287773.198000
+!s107 H:/Year 2/VERI/part_4/ex19/clktick_16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/clktick_16.v|
+!s101 -O0
+vcounter_13
+ICcbelYBS9J5V;7`?09Z@o2
+V<IXB@iS3Wj0AC8W6<^QLT0
+R1
+w1481286364
+8H:/Year 2/VERI/part_4/ex19/counter_13.v
+FH:/Year 2/VERI/part_4/ex19/counter_13.v
+L0 7
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 <PozAnH7MiQ>l:>::OQgc3
+!s85 0
+!s108 1481287771.026000
+!s107 H:/Year 2/VERI/part_4/ex19/counter_13.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/counter_13.v|
+!s101 -O0
+vdelay_ram
+I9B7NRO9FM<3?m?=m[;WVO1
+VAbToU3f2Ne2kMOD@Ek1Fz2
+R1
+w1481284929
+8H:/Year 2/VERI/part_4/ex19/delay_ram.v
+FH:/Year 2/VERI/part_4/ex19/delay_ram.v
+L0 40
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3NUSz:1:EBUK8UDkzFRXV2
+!s85 0
+!s108 1481287772.941000
+!s107 H:/Year 2/VERI/part_4/ex19/delay_ram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/delay_ram.v|
+!s101 -O0
+vex19_top
+Ih]dOHeXe]gKkeEbYRN;HE3
+VnC=_9K?UhhJma55g<0K3]2
+R1
+w1481287309
+8H:/Year 2/VERI/part_4/ex19/ex19_top.v
+FH:/Year 2/VERI/part_4/ex19/ex19_top.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3e<6Sk0o_0HdA[<hc5jXS3
+!s85 0
+!s108 1481287772.518000
+!s107 H:/Year 2/VERI/part_4/ex19/ex19_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/ex19_top.v|
+!s101 -O0
+vhex_to_7seg
+Ik?mXT>idleY>KNa08GoG:0
+VmajmUT@0;iC?5d23GJR[Q1
+R1
+w1481286547
+8H:/Year 2/VERI/part_4/ex19/hex_to_7seg.v
+FH:/Year 2/VERI/part_4/ex19/hex_to_7seg.v
+L0 10
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 oETEUjTIS^^5T2@A^]UQA1
+!s85 0
+!s108 1481287772.312000
+!s107 H:/Year 2/VERI/part_4/ex19/hex_to_7seg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/hex_to_7seg.v|
+!s101 -O0
+vprocessor
+IMa6AaFAAYUZ8[]QZ_lFNk0
+VMF;hZL3<8@i6m;;Y`RIni0
+R1
+w1481287755
+8H:/Year 2/VERI/part_4/ex19/echo.v
+FH:/Year 2/VERI/part_4/ex19/echo.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 2KaCOF@noloMRiL1kAl1:0
+!s85 0
+!s108 1481287772.722000
+!s107 H:/Year 2/VERI/part_4/ex19/echo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/echo.v|
+!s101 -O0
+vpulse_gen
+I`YF0NR_ORRY2AQ`]zO9<M2
+V@PDIXeZRQh6E@P0ecb`ZL0
+R1
+w1481275413
+8H:/Year 2/VERI/part_4/ex19/pulse_gen.v
+FH:/Year 2/VERI/part_4/ex19/pulse_gen.v
+L0 9
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 :HUNbi>D5ThXIGBT1j`Yk0
+!s85 0
+!s108 1481287772.008000
+!s107 H:/Year 2/VERI/part_4/ex19/pulse_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/pulse_gen.v|
+!s101 -O0
+vpwm
+Iz0Ee5m`ABhP8YY7GeFf`l1
+V:TYofWcnBoYTBU39QYcOY2
+R1
+w1392628002
+8H:/Year 2/VERI/part_4/ex19/pwm.v
+FH:/Year 2/VERI/part_4/ex19/pwm.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 Ae0];^DocX]]J[Ai31HV13
+!s85 0
+!s108 1481287771.766000
+!s107 H:/Year 2/VERI/part_4/ex19/pwm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/pwm.v|
+!s101 -O0
+vspi2adc
+I1L0E[2L:@6AAR<G;zW?k[0
+VUE8KZGmf6Mcl:cj22e?OP0
+R1
+w1481210542
+8H:/Year 2/VERI/part_4/ex19/spi2adc.v
+FH:/Year 2/VERI/part_4/ex19/spi2adc.v
+L0 9
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 AcO<RFG6:EHf;@P5F?62a1
+!s85 0
+!s108 1481287771.477000
+!s107 H:/Year 2/VERI/part_4/ex19/spi2adc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/spi2adc.v|
+!s101 -O0
+vspi2dac
+Iienc;L0aDVDEHPGf>izYK0
+VFNOGDa=aYhJTn=76LYB@A2
+R1
+w1481207092
+8H:/Year 2/VERI/part_4/ex19/spi2dac.v
+FH:/Year 2/VERI/part_4/ex19/spi2dac.v
+L0 9
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 [gRm0ZjTzK1gen`NXQbM52
+!s85 0
+!s108 1481287771.281000
+!s107 H:/Year 2/VERI/part_4/ex19/spi2dac.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/Year 2/VERI/part_4/ex19|H:/Year 2/VERI/part_4/ex19/spi2dac.v|
+!s101 -O0
